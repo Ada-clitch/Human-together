@@ -1,0 +1,45 @@
+.home{
+    text-align:center;
+    align-items: center;
+}
+.head{
+    margin-top:20px;
+}
+.sec{
+    padding: 40px;
+}
+.contact-section {
+  background-color: #f0f0f0;
+  padding: 3rem 1rem;
+  text-align: center;
+  color: #333;
+}
+
+.contact-section h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.contact-section p {
+  font-size: 1.1rem;
+  margin-bottom: 2rem;
+}
+
+.social-icons a {
+  font-size: 1.8rem;
+  margin: 0 10px;
+  color: #444;
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.social-icons a:hover {
+  transform: scale(1.2);
+  color: #0077b5; 
+}
+.main-footer {
+  background-color: #333;
+  color: #ccc;
+  text-align: center;
+  padding: 1.5rem;
+  font-size: 0.9rem;
+}
